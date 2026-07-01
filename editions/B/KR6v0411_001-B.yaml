@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR6v0411/b/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 郡人徐𤊹纂輯林弘衍叅定鄭天綵賴亨侯吳興漢重訂紀形勝震旦方坻羣峰秀結𡽱嶫蔽虧炎天積雪岫幌雲關星羅碁列地德炳靈四睇幽絕紀形勝第一雪峰山在福州侯官縣廿九三十都宋為永安鄉嘉祥東里距郡城一百八十里而遙高四十餘里蟠據侯官羅源古田閩清四邑延袤六十餘里其山舊有樵者得象骨於峰頭名象骨峰危峭隂寒夏有積雪經暑不消初僧義存游吳楚至武陵傳法於德山乃歸閩居懷安縣之芙蓉山石室其徒蝟集有同學行實者為卜勝槩曰若鷲嶺猴江乃可於是得象骨峰形勢積高岡巒環抱乃與里人謝俲方訓陳佐輩誅茅為菴於檉洋凉映臺北導存居之一日登其巔遇大雪留宿其上閩王審知問曰師住象骨峰有何異答曰山頂暑月猶有積雪王曰是山可名雪峰此雪峰之名所繇起也既而徒眾益盛舄衲無所容遂去菴三百歩別營所居即今之崇聖寺基也主山曰鳳凰岡唐禧宗乾符二年賜號真覺大師山有二十四景然不能盡是山之勝云象骨峰山之舊名唐改為雪峰鳳凰岡寺之主山也寺扆其麓烏石嶺在山之巔石色純黑不生樹木丁山距寺四十里六華峰距寺二十里一洞山在寺之東北俗呼獅子巖峭拔玲瓏草木蒙茸其上梯雲嶺在寺之東南磨香石在寺之東隅石上古刻磨香石三字鞭鬬石在寺之東隅石上刻光松頭塔四字棋盤石在羅漢巖之上虎跡石文殊臺在檉洋之東距寺五里石屋中刻有文殊像乘雲臺黃蘖希運禪師與一僧同登雪峰轉盻間其僧乘雲而去運訝視之曰早知能然當為斫其脛故名羅漢巖在雙溪距寺二十里抵寺路經於斯下有十數丈深潭上有棋盤石舊跡應潮泉在山絕頂距寺十餘里一壑澄泓廣二三尺水纔數寸進退深淺與潮候無差四傍皆頑石中有數沙眼潮上則涓涓而出退則復竭相傳以為海眼卓錫泉距寺二里泉自石罅流出涓涓不竭瀑布泉在丁山奔流廣十餘丈湯泉距寺八十里地名湯院產石玲瓏䆗窱可為盆玩有溫泉自龍口流出宋僧可遵有詩云直待眾生塵垢盡我方清冷混常流蘇東坡和之云若信眾生本無垢此泉何處覔寒温後郡守曾鞏程師孟蔣之奇諸公俱有留題萬工池在枯木菴前寬可數十畝閩王役丁夫所濬曾費萬工故名放生池在寺前萬工池下蘸月池在山門外歲久淤塞前僧墾為田萬歴七年清丈十一畝零鬻價三十金天啟七年曹亷憲學佺捐資贖回仍濬為池四傍砌石雪嶠路在枯木菴邊古鏡臺在檉洋之西論曰吾郡山水奇擅宇內雪峰僻處萬山中高淩霄漢隆冬積雪盛夏不消固非炎方所嘗聽覩閩山無象而骨委峰巔離海三百餘里而泉脉候應潮汐乘雲高僧臺址尚存瀑布千仞不讓匡山九疉則是山誠震旦之靈區釋子開士之所吐符也惟是人跡罕至雲巒霧壑未盡品題老氏有云知我者希則我貴矣山靈豈不厚幸哉
+  hash: sha256:e36a2a78410a13147fb3a6faa36435351f92db7f70d475a1c133765b0dcd7174
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 雪峰志卷之一, id: KR6v0411_B_001-juan-start, juan_n: '001', jhead: 雪峰志卷之一}
+  - {type: 其他, offset: 22, content: 紀形勝, id: KR6v0411_B_001-mulu-1, level: '1'}
+  - {type: 其他, offset: 25, content: 紀形勝序, id: KR6v0411_B_001-mulu-2, level: '2'}
+  - {type: 其他, offset: 62, content: 雪峰山, id: KR6v0411_B_001-mulu-3, level: '2'}
+  - {type: 其他, offset: 352, content: 象骨峰, id: KR6v0411_B_001-mulu-4, level: '2'}
+  - {type: 其他, offset: 364, content: 鳳凰岡, id: KR6v0411_B_001-mulu-5, level: '2'}
+  - {type: 其他, offset: 376, content: 烏石嶺, id: KR6v0411_B_001-mulu-6, level: '2'}
+  - {type: 其他, offset: 391, content: 丁山, id: KR6v0411_B_001-mulu-7, level: '2'}
+  - {type: 其他, offset: 398, content: 六華峰, id: KR6v0411_B_001-mulu-8, level: '2'}
+  - {type: 其他, offset: 406, content: 一洞山, id: KR6v0411_B_001-mulu-9, level: '2'}
+  - {type: 其他, offset: 429, content: 梯雲嶺, id: KR6v0411_B_001-mulu-10, level: '2'}
+  - {type: 其他, offset: 437, content: 磨香石, id: KR6v0411_B_001-mulu-11, level: '2'}
+  - {type: 其他, offset: 454, content: 鞭鬬石, id: KR6v0411_B_001-mulu-12, level: '2'}
+  - {type: 其他, offset: 471, content: 棋盤石, id: KR6v0411_B_001-mulu-13, level: '2'}
+  - {type: 其他, offset: 480, content: 虎跡石, id: KR6v0411_B_001-mulu-14, level: '2'}
+  - {type: 其他, offset: 483, content: 文殊臺, id: KR6v0411_B_001-mulu-15, level: '2'}
+  - {type: 其他, offset: 503, content: 乘雲臺, id: KR6v0411_B_001-mulu-16, level: '2'}
+  - {type: 其他, offset: 544, content: 羅漢巖, id: KR6v0411_B_001-mulu-17, level: '2'}
+  - {type: 其他, offset: 575, content: 應潮泉, id: KR6v0411_B_001-mulu-18, level: '2'}
+  - {type: 其他, offset: 635, content: 卓錫泉, id: KR6v0411_B_001-mulu-19, level: '2'}
+  - {type: 其他, offset: 652, content: 瀑布泉, id: KR6v0411_B_001-mulu-20, level: '2'}
+  - {type: 其他, offset: 664, content: 湯泉, id: KR6v0411_B_001-mulu-21, level: '2'}
+  - {type: 其他, offset: 751, content: 萬工池, id: KR6v0411_B_001-mulu-22, level: '2'}
+  - {type: 其他, offset: 777, content: 放生池, id: KR6v0411_B_001-mulu-23, level: '2'}
+  - {type: 其他, offset: 787, content: 蘸月池, id: KR6v0411_B_001-mulu-24, level: '2'}
+  - {type: 其他, offset: 839, content: 雪嶠路, id: KR6v0411_B_001-mulu-25, level: '2'}
+  - {type: 其他, offset: 847, content: 古鏡臺, id: KR6v0411_B_001-mulu-26, level: '2'}
+  - {type: 其他, offset: 855, content: 紀形勝論, id: KR6v0411_B_001-mulu-27, level: '2'}
+  - {type: 'cbeta:juan-end', offset: 983, content: 雪峰志卷一終, id: KR6v0411_B_001-juan-end, juan_n: '001', jhead: 雪峰志卷一終}
+metadata:
+  title: 雪峰志
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B24/B24n0140.xml
+    old_id: B24n0140
+hash: sha256:792815f357b29bb0525c54ebd94563bceb02d17e946d821efae5bb4de1127b31
