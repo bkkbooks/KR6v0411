@@ -18,7 +18,7 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0411_000.yaml, hash: 'sha256:0364679c9910934244f72027283453515e498304a65dec49f96a7d37c9086978'}
+  - {seq: 0, filename: KR6v0411_000.yaml, hash: 'sha256:8c164ecab412ad204b1c53202f4aa9aeca45dc8edbc08300c363cf4a8cfef672'}
   - {seq: 1, filename: KR6v0411_001.yaml, hash: 'sha256:7aea3cce52e7b4ad82e4acc0ea3673f5791b80aa73327e35b9665a47c2dee93a'}
   - {seq: 2, filename: KR6v0411_002.yaml, hash: 'sha256:0113db9f525821aff87ccc7eaad9ad0abc640f029901a990f06a4d70a1b140f4'}
   - {seq: 3, filename: KR6v0411_003.yaml, hash: 'sha256:3f3fda173174164f5937dfd4166893d1d9a84b3983d90731a66400ebc1832f07'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 9, filename: KR6v0411_009.yaml, hash: 'sha256:e39d71b44b6ea13e11e63f3c816689c614c9d02afb5ba3d4732753bf790a6522'}
   - {seq: 10, filename: KR6v0411_010.yaml, hash: 'sha256:483859b62deaf5eaa614ec62d394977801b999f954454967624f1bf89e8d2f07'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0411_000.markers.yaml, hash: 'sha256:a1f07423d647682c2c141415b16e01a5e6b61d5fdd9ab543058566276bd46986'}
+  - {seq: 0, role: markers, filename: assets/KR6v0411_000.markers.yaml, hash: 'sha256:268c989423e07cfc499449391b5950fc78ebbacda237b94c346eb4b9cf35c912'}
   - {seq: 1, role: markers, filename: assets/KR6v0411_001.markers.yaml, hash: 'sha256:feca4ef16aee833308b9890c753a156c5487ebde75eb40636f68aeb0aff193ac'}
   - {seq: 2, role: markers, filename: assets/KR6v0411_002.markers.yaml, hash: 'sha256:25c19546f04b5d76f9610bb80ee002f2679d70be1e51a4898648fe5758ccb32c'}
   - {seq: 3, role: markers, filename: assets/KR6v0411_003.markers.yaml, hash: 'sha256:84766efd056d1660559c7ffebd33f3de6b434e422466967874b2c15f8356f3ca'}
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0411_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -56,7 +56,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0411_B_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 雪峯志序
@@ -66,7 +66,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0411_B_000-mulu-3
     span:
-    - front
+    - body
     - 464
     - 464
   label: 重刻雪峯誌敘
@@ -76,7 +76,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0411_B_000-mulu-4
     span:
-    - front
+    - body
     - 941
     - 941
   label: 目錄
@@ -5692,7 +5692,7 @@ table_of_contents:
   label: 雪峰東山空禪師答余才𦮠書
   type: mulu
   level: 1
-hash: sha256:52194b02caa72ec312621625d1965a4151c32ab4ceb299d2c9d15beb4c101b7e
+hash: sha256:487a6abeb2f60a8800c5b78c7f95caedd4caad348f50c493682ca50ab2307342
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

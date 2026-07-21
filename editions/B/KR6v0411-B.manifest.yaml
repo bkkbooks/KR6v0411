@@ -19,7 +19,7 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0411_000-B.yaml, hash: 'sha256:1520d336af2f963f5b93943f77152fb44cb97e40666c37df5a3858181f174711'}
+  - {seq: 0, filename: KR6v0411_000-B.yaml, hash: 'sha256:7cc4a3a0c1ba71ff504587e27421f7a7086f2124d56a892eeaec3a8f1eb4f259'}
   - {seq: 1, filename: KR6v0411_001-B.yaml, hash: 'sha256:792815f357b29bb0525c54ebd94563bceb02d17e946d821efae5bb4de1127b31'}
   - {seq: 2, filename: KR6v0411_002-B.yaml, hash: 'sha256:4015b0368d23946c513e0f6ed4f25c2cbfabf3aa36c5e7d7a9dc1f99c59b2fbe'}
   - {seq: 3, filename: KR6v0411_003-B.yaml, hash: 'sha256:1ac36f1739c67e10f975e080dfe5b421e23f5836d5e6865fb089c0df70025bf2'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6v0411_009-B.yaml, hash: 'sha256:ace46bcfd9b33ff33c681835688537494810e528feead1daab0121dcfc73a5bc'}
   - {seq: 10, filename: KR6v0411_010-B.yaml, hash: 'sha256:f3ccdfa31b565d2e9efb92500a0fbb9533429ceabdc82f5525a6a49588aeba10'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0411_000-B.markers.yaml, hash: 'sha256:bfb0324449b0f4096049968edccabd6119db7cee29248e92459642aa700144f9'}
+  - {seq: 0, role: markers, filename: assets/KR6v0411_000-B.markers.yaml, hash: 'sha256:440115b50b3053d18295c2759f2366d63044598638bfb70bf3c8ba606775d02a'}
   - {seq: 1, role: markers, filename: assets/KR6v0411_001-B.markers.yaml, hash: 'sha256:442fcb6304ab21c5a144348bdc2ef756e0636b47e23219e3819b8136f0bf45c5'}
   - {seq: 2, role: markers, filename: assets/KR6v0411_002-B.markers.yaml, hash: 'sha256:4e4c991cabdb720e4b8226507a55b42b159e525cefc8c77011985c3ec7a9bb02'}
   - {seq: 3, role: markers, filename: assets/KR6v0411_003-B.markers.yaml, hash: 'sha256:65fd9c09657288ecc7fa1d31c29fa1c96bfe0aede11f612e500662bff53e87b7'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0411_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0411_B_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 雪峯志序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0411_B_000-mulu-3
     span:
-    - front
+    - body
     - 464
     - 464
   label: 重刻雪峯誌敘
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0411_B_000-mulu-4
     span:
-    - front
+    - body
     - 941
     - 941
   label: 目錄
@@ -5693,4 +5693,4 @@ table_of_contents:
   label: 雪峰東山空禪師答余才𦮠書
   type: mulu
   level: 1
-hash: sha256:381af997b4811e421d7f699c80ad759da04357af8524a72a3ab37c21e46790fc
+hash: sha256:6cd0f549147637c4d7705373f11051dbfc9470992df08441e80027be4a78a144
